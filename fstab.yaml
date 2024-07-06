@@ -1,2 +1,6 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1Af0m_o2Phk_zTxjLewh5ALZNQrQFh4ij
+#  /: https://drive.google.com/drive/folders/1Af0m_o2Phk_zTxjLewh5ALZNQrQFh4ij
+  /:
+    url: https://author-p23624-e1338908.adobeaemcloud.com/bin/franklin.delivery/Hiro-Dev-AEM/crosswalk/main
+    type: markup
+    suffix: ".html?wcmmode=disabled"
