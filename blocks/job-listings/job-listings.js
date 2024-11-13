@@ -1,6 +1,6 @@
 export default async function decorate(block) {
     // JSONデータを取得するURL
-    const url = 'https://main--wknd--hiro-dev-aem.hlx.live/test.json';
+    const url = 'https://main--wknd--hiro-dev-aem.hlx.page/test.json';
     
     try {
       // データをフェッチしてJSONに変換
